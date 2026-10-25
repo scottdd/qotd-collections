@@ -16,7 +16,7 @@ The more things change, the more they stay insane.
 It's only words... unless they're true. - <b>David Mamet</b>
 When you're swimmin' in the creek And an eel bites your cheek, That's a moray - <b>Fabulous Furry Freak Brothers</b>
 Any clod can have the facts, but having opinions is an art. - <b>Charles McCabe, San Francisco Chronicle</b>
-An ounce of pretention is worth a pound of manure.
+An ounce of pretension is worth a pound of manure.
 A good idea doesn't care who has it, and neither should you.
 I'm not cynical - just experienced.
 Democracy is the worst possible political system, except for all the others.
@@ -28,7 +28,7 @@ There is an evil tendency underlying all our technology - the tendency to do wha
 The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. - <b>H.P. Lovecraft</b>
 Violence is the last refuge of the incompetent. - <b>Isaac Asimov</b>
 Some say I'm a visionary, others say I'm just seeing things.
-It is impossible to prepare simultanteously for war and peace and still have time for golf.
+It is impossible to prepare simultaneously for war and peace and still have time for golf.
 A conclusion is the place where you got tired of thinking. - <b>Arthur Block</b>
 Nothing was ever achieved by accepting reality.
 An ounce of example is worth a pound of theory.
@@ -60,7 +60,7 @@ Few things help an individual more than to place responsibility upon him and to 
 The road to ruin is always kept in good repair. - <b>Anonymous</b>
 Education without values, as useful as it is, seems rather to make man a more clever devil. - <b>C.S. Lewis</b>
 This is not a novel to be tossed aside lightly. It should be thrown with great force. - <b>Dorothy Parker</b>
-Where a calculator on the ENIAC is equipped with 19,999 vaccuum tubes and weighs 30 tons, computers in the future may have only 1,000 vaccuum tubes and perhaps only weigh 1.5 tons. - <b>Popular Mechanics, 1949</b>
+Where a calculator on the ENIAC is equipped with 19,999 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps only weigh 1.5 tons. - <b>Popular Mechanics, 1949</b>
 'Cogito ergo spud' -I think therefore I yam. - <b>A LaCarte, Denny's hometown menu circa 1992</b>
 Our life is frittered away by detail . . . . Simplify, Simplify. - <b>Henry David Thoreau</b>
 Sanity is very rare. - <b>Ralph Waldo Emerson</b>
@@ -104,14 +104,14 @@ If you want to make a deal real bad, you're going to make a real bad deal - <b>T
 Work eight hours and sleep eight hours, and make sure they are not the same hours - <b>T. Boone Pickens</b>
 Every problem has at least one solution. If there are no solutions, then there is no problem.
 No person hands out their money to passersby, but to how many do each of us hand out our lives! We’re tightfisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers. - <b>Seneca</b>
-When you make a mistake, there are only three things you should ever do  about it: admit it, learn from it, and don’t repeat it. - <b>Paul "Bear" Bryant</b>
+When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don’t repeat it. - <b>Paul "Bear" Bryant</b>
 It is no sign of health to be well adjusted to a sick society. - <b>Unknown</b>
 My advice: you are on a losing street but you will learn a lot on your path to despair - <b>Unknown, from a programming forum</b>
 He who begins by seeking God within himself may end by confusing himself with God. - <b>B.B. Warfield</b>
 He that complies against his Will,<br />Is of his own Opinion still;<br />Which he may adhere to, yet disown,<br />For Reasons to himself best known - <b>Samuel Butler</b>
 In a country that doesn't discriminate between fame and infamy, the latter presents itself as plainly more achievable. - <b>Lionel Shriver, We Need to Talk About Kevin</b>
 The eternal difference between right and wrong does not fluctuate, it is immutable. - <b>Patrick Henry</b>
-Being bad at data analysis is no reason to be mad at me - <b>Scott Adams ()</b>
+Being bad at data analysis is no reason to be mad at me - <b>Scott Adams</b>
 It is easier to fool someone than convince them they have been fooled - <b>Mark Twain</b>
 while(!Asleep) sheep++;
 Roses are FF0000, violets are 0000FF... All my base are belong to you
@@ -126,7 +126,7 @@ We are, finally, all wanderers in search of knowledge. Most of us hold the dream
 A free society is one where it is safe to be unpopular. - <b>Adlai Stevenson</b>
 The mystery of government is not how Washington works but how to make it stop. - <b>P. J. O'Rourke</b>
 Kindness is in our power, even when fondness is not. - <b>Samuel Johnson</b>
-Actual conversation overheard at doctors office: "You're a bit anemic, but we'll get it ironed out."
+Actual conversation overheard at doctor's office: "You're a bit anemic, but we'll get it ironed out."
 By trying, we can easily learn to endure adversity. Another man's, I mean. - <b>Mark Twain</b>
 God, grant me the serenity to accept the people I cannot change, the courage to change the one I can, and the wisdom to know it's me. - <b>Unknown, variation of an excerpt from 'The Serenity Prayer' by Reinhold Niebuhr</b>
 Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon. - <b>Susan Ertz</b>
@@ -140,7 +140,7 @@ There are two theories to arguing with a woman. Neither works. - <b>Will Rogers<
 The more corrupt the state, the more numerous the laws. - <b>Tacitus</b>
 Never be fooled by a person’s confidence. Not everyone who is confident is competent, and not everyone who is competent is confident. - <b>Unknown</b>
 Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so. - <b>Noam Chomsky</b>
-“What you get by achieving your goals is not as important as what you become by achieving your goals". - <b>Zig Ziglar</b>
+What you get by achieving your goals is not as important as what you become by achieving your goals. - <b>Zig Ziglar</b>
 In my many years I have come to a conclusion that one useless man is a shame, two is a law firm, and three or more is a congress. - <b>John Adams</b>
 It’s a universal law – intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility. - <b>Aleksandr Solzhenitsyn</b>
 The reward of friendship is itself. The man who hopes for anything else does not understand what true friendship is. - <b>Saint Aelred of Rievaulx</b>
@@ -155,14 +155,14 @@ When men choose not to believe in God, they do not thereafter believe in nothing
 Good rhetoric is not the same as good science - <b>Blair Fix</b>
 Satan disguises submission to himself under the ruse of personal autonomy. He never asks us to become his servants. Never once did the serpent say to Eve, 'I want to become your master.' The shift in commitment is never from Christ to evil; it is always from Christ to self. And instead of his will, self-interest now rules and what I want reigns. And that is the essence of sin. - <b>Dennis F. Kinlaw, This Day With the Master (November 14)</b>
 If you want to understand any problem in America, you need to look at who PROFITS from that problem, not at who suffers from that problem. - <b>Dr. Amos Wilson</b>
-Wise men speak because they have something to say; Fools because they have to say something. - <b>Plato Live, Laugh, Love</b>
+Wise men speak because they have something to say; Fools because they have to say something. - <b>Plato</b>
 A man on a thousand-mile walk has to forget his ultimate goal and say to himself every morning, ‘Today I’m going to cover twenty-five miles and then rest up and sleep.’ - <b>Tolstoy</b>
 The cross is laid on every Christian. The first Christ-suffering which every man must experience is the call to abandon the attachments of this world. It is that dying of the old man which is the result of his encounter with Christ. As we embark upon discipleship we surrender ourselves to Christ in union with his death—we give over our lives to death. Thus it begins; the cross is not the terrible end to an otherwise god-fearing and happy life, but it meets us at the beginning of our communion with Christ. When Christ calls a man, he bids him come and die. - <b>Dietrich Bonhoeffer, The Cost of Discipleship, 1937</b>
 There is no saint without a past, no sinner without a future. - <b>Saint Augustine of Hippo</b>
 Choice is the essence of freedom, and freedom is the essence of a life worth living. - <b>Margaret Thatcher</b>
 I would sooner be called a fool for believing everything in the Bible than be thought wise for believing nothing. The question is not, ‘Is it pleasant?’ but ‘Is it true?’ If it is true, it is to be believed, however unpleasant it may be; and if it is not true, it is to be rejected, however pleasant it may appear. - <b>Charles Spurgeon, from his sermon “The Lover of God’s Law Filled with Peace” (Sermon No. 1984), delivered January 31, 1888, on Psalm 119:165</b>
-Sin is a legitimate need met by illigitimate means - <b>Walter Strickland, Sola Media - from podcast  [timestamp 41:15]</b>
+Sin is a legitimate need met by illegitimate means - <b>Walter Strickland, Sola Media - from podcast [timestamp 41:15]</b>
 Seek not to grow in knowledge chiefly for the sake of applause and to enable you to dispute with others, but seek it for the benefit of your souls - <b>Jonathan Edwards</b>
 What fools are they, who for a drop of pleasure drink a sea of wrath! - <b>Thomas Watson, Glorious Gospel</b>
 To will is of nature, but to will aright is of grace - <b>Augustine</b>
-My meory is nearly gone, but I remember two things: That I am a great sinner, and Christ is a great savior! - <b>John Newton</b>
+My memory is nearly gone, but I remember two things: That I am a great sinner, and Christ is a great savior! - <b>John Newton</b>

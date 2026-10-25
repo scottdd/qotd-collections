@@ -25,7 +25,7 @@ There really aren’t many problems that someone hasn’t already seen and fixed
 No one knows everything or is good at everything. Take it one ticket at a time and learn from each experience.<br/>
 —&nbsp;<b>ComputerGuyJeff</b>, Spiceworks Community (https://community.spiceworks.com/t/how-do-i-learn-troubleshooting/1255509/12)
 %
-Burnout can ruin a career, or a person. Sadly its usually the high value people that wind up with it. Don’t let it be you, but also take time to recognize it in others.<br/>
+Burnout can ruin a career, or a person. Sadly it’s usually the high value people that wind up with it. Don’t let it be you, but also take time to recognize it in others.<br/>
 —&nbsp;<b>SHNOOL</b>, Spiceworks Community (https://community.spiceworks.com/t/how-much-recovery-time-did-you-get-after-your-last-major-incident/1256206/7)
 %
 Going to the cloud because “everyone is doing it”, is warped thinking.<br/>
@@ -199,7 +199,7 @@ Well, it's been 9 months… Has Windows installed yet? That's what you get for t
 12:00 pm Lunch 3:30 pm Return from lunch. 3:55 pm Wake up from nap. Bad dream makes me cranky. Bounce servers for no reason. Return to napping. Awesome!<br/>
 —&nbsp;<b>davebeltran1237</b>, Spiceworks Community (https://community.spiceworks.com/t/a-day-in-the-life-of-a-sysadmin/10450/4)
 %
-I figure Gates is just an over acheiver when it comes to under acheiving.<br/>
+I figure Gates is just an over achiever when it comes to under achieving.<br/>
 —&nbsp;<b>daniellamontagne4356</b>, Spiceworks Community (https://community.spiceworks.com/t/welcome-to-the-water-cooler-group/10360/7)
 %
 i rather have Windows. I like windows in my house not on my desktop<br/>
@@ -217,10 +217,10 @@ I never have free time. I’m making some now.<br/>
 Heh, I like the other suggested answer for DIMM more: Don’t Ingest Mystery Meat. It’s certainly sound advice to live by!<br/>
 —&nbsp;<b>merlinyoda</b>, Spiceworks Community (https://community.spiceworks.com/t/daily-challenge-dimms-2024-sep-02/1112257/5)
 %
-A new PC will come with a 5 katrillino core CPU and 10 bajillion Gigs of RAM, but terribly written OS’s and bloatware will have them booting and running no faster than they do now<br/>
+A new PC will come with a 5 katrillion core CPU and 10 bajillion Gigs of RAM, but terribly written OS’s and bloatware will have them booting and running no faster than they do now<br/>
 —&nbsp;<b>jacksonrobbins2047</b>, Spiceworks Community (https://community.spiceworks.com/t/in-10-years-what-will-it-be-like/12228/20)
 %
-Faster than TCP over fiber, more powerful than SSH, able to leap subnets in a single packet, its Protocol Dicer!<br/>
+Faster than TCP over fiber, more powerful than SSH, able to leap subnets in a single packet, it's Protocol Dicer!<br/>
 —&nbsp;<b>philwilkin</b>, Spiceworks Community (https://community.spiceworks.com/t/marvel-super-hero-contest/13972/7)
 %
 Them: “How can my computer be broken, it was working fine yesterday?” ME: “Yeah, funny thing about broken things… they all used to work.”<br/>
@@ -241,7 +241,7 @@ hahahah…how is it that the same USER works at every company?<br/>
 You were the chosen one! You were supposed to DROP the tables, not JOIN them!<br/>
 —&nbsp;<b>msijmons</b>, Spiceworks Community (https://community.spiceworks.com/t/daily-challenge-what-does-sql-really-mean-2024-sep-18/1118931/3)
 %
-The yellow post-it has become the bane of my existance. All that work to secure a network brought down by 3M and silly users<br/>
+The yellow post-it has become the bane of my existence. All that work to secure a network brought down by 3M and silly users<br/>
 —&nbsp;<b>davidherold2989</b>, Spiceworks Community (https://community.spiceworks.com/t/biggest-user-it-misconception-that-you-know-everyones-password/15060/8)
 %
 While they are at it they should flush DNS. I always feel better after I flush…<br/>
