@@ -62,8 +62,8 @@
   {
     "id": "personal-007",
     "quote": "The wise man never argues with the fool; casual observers may not be able to tell which is which.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Traditional Proverb",
+    "attribution_info": "cf. Proverbs 26:4",
     "tags": [
       "wisdom"
     ],
@@ -133,8 +133,8 @@
   {
     "id": "personal-014",
     "quote": "Neckties can impair blood flow to the brain and interfere with clear thinking, alertness, and judgment.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Langan & Watkins",
+    "attribution_info": "Cornell University tight-necktie study (1987)",
     "tags": [
       "wisdom"
     ],
@@ -193,8 +193,8 @@
   {
     "id": "personal-020",
     "quote": "A good idea doesn't care who has it, and neither should you.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Plynn Williams",
+    "attribution_info": "Quoted by Karl Rohnke; second clause added in Usenet lore",
     "tags": [
       "wisdom"
     ],
@@ -304,8 +304,8 @@
   {
     "id": "personal-031",
     "quote": "It is impossible to prepare simultaneously for war and peace and still have time for golf.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Unknown",
+    "attribution_info": "Newspaper/Usenet riff on Albert Einstein & Dwight D. Eisenhower",
     "tags": [
       "history",
       "humor",
@@ -336,8 +336,8 @@
   {
     "id": "personal-034",
     "quote": "An ounce of example is worth a pound of theory.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Traditional Proverb",
+    "attribution_info": "cf. Ralph Waldo Emerson, 'An ounce of action is worth a ton of theory'",
     "tags": [
       "wisdom"
     ],
@@ -377,8 +377,8 @@
   {
     "id": "personal-038",
     "quote": "The right to be right is irrelevant.  It is the right to be wrong that makes one free.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "John G. Diefenbaker",
+    "attribution_info": "Paraphrase of 1960 Canadian Bill of Rights speech ('Freedom is the right to be wrong, not the right to do wrong')",
     "tags": [
       "wisdom"
     ],
@@ -437,8 +437,8 @@
   {
     "id": "personal-044",
     "quote": "Life is like arriving late for a movie, having to figure out what was going on without bothering everybody with a lot of questions, and then being unexpectedly called away before you find out how it ends.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Joseph Campbell",
+    "attribution_info": "Attributed (cited in Scientific American, Jan 2005)",
     "tags": [
       "wisdom"
     ],
@@ -447,8 +447,8 @@
   {
     "id": "personal-045",
     "quote": "Comedy is tragedy plus time.\nPolitics is comedy plus pretense.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Steve Allen",
+    "attribution_info": "First line: The Funny Men (1957); second line: Usenet adage",
     "tags": [
       "government",
       "humor",
@@ -479,8 +479,8 @@
   {
     "id": "personal-048",
     "quote": "I'm leaving early today to make up for coming in late yesterday.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Charles Lamb",
+    "attribution_info": "Attributed / Apocryphal (East India House anecdote, 1852)",
     "tags": [
       "wisdom"
     ],
@@ -1036,8 +1036,8 @@
   {
     "id": "personal-102",
     "quote": "Perhaps the greatest barrier to revival on a large scale is the fact that we are too interested in a great display. We want an exhibition; God is looking for a man who will throw himself entirely on God. Whenever self-effort, self-glory, self-seeking or self-promotion enters into the work of revival, then God leaves us to ourselves.",
-    "attribution": "Ted S. Rendall",
-    "attribution_info": "",
+    "attribution": "Sadhu Sundar Singh / Ted S. Rendall",
+    "attribution_info": "Attributed to Sadhu Sundar Singh; published by Ted S. Rendall in The Prairie Overcomer",
     "tags": [
       "faith",
       "theology"
@@ -1067,8 +1067,8 @@
   {
     "id": "personal-105",
     "quote": "Every problem has at least one solution. If there are no solutions, then there is no problem.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Jacques Rouxel",
+    "attribution_info": "Les Shadoks (1968, 'S'il n'y a pas de solution, c'est qu'il n'y a pas de problème')",
     "tags": [
       "wisdom"
     ],
@@ -1214,7 +1214,7 @@
     "id": "personal-119",
     "quote": "If you understand what you're doing, you're not learning anything",
     "attribution": "Anonymous",
-    "attribution_info": "",
+    "attribution_info": "CMU CS1 Quotations; occasionally attributed to Abraham Lincoln",
     "tags": [
       "wisdom"
     ],

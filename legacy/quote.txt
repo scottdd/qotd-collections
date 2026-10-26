@@ -4,19 +4,19 @@ You can only be young once, but you can be immature forever. - <b>Larry Anderson
 The most exciting phrase to hear in science, the one that heralds new discoveries, is not "Eureka!" (I found it!) but "That's funny..." - <b>Isaac Asimov</b>
 I'm not afraid of dying.  I just don't want to be there when it happens. - <b>Woody Allen, Getting Even (1971), 'Death (A Play)'</b>
 History is made at night.  Character is what you are in the dark. - <b>Lord John Whorfin, John Lithgow, The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)</b>
-The wise man never argues with the fool; casual observers may not be able to tell which is which.
+The wise man never argues with the fool; casual observers may not be able to tell which is which. - <b>Traditional Proverb, cf. Proverbs 26:4</b>
 No matter what hits the fan, it's never distributed evenly.
 "Everything you say is boring and incomprehensible," she said, "but that alone doesn't make it true." - <b>Kafka</b>
 Life is what happens to you when you're busy making other plans. - <b>John Lennon, 'Beautiful Boy (Darling Boy)', Double Fantasy (1980); orig. Allen Saunders (1957)</b>
 If you make people think they're thinking, they'll love you; but if you really make them think, they'll hate you. - <b>Don Marquis, Quoted by Christopher Morley in 'The Bowling Green', New York Evening Post (Feb 12, 1923)</b>
 You can't have everything -- where would you put it?<br />— Steven Wright<br />Everywhere!<br />— Anonymous
-Neckties can impair blood flow to the brain and interfere with clear thinking, alertness, and judgment.
+Neckties can impair blood flow to the brain and interfere with clear thinking, alertness, and judgment. - <b>Langan & Watkins, Cornell University tight-necktie study (1987)</b>
 The more things change, the more they stay insane.
 It's only words... unless they're true. - <b>David Mamet, Speed-the-Plow (1988)</b>
 When you're swimmin' in the creek And an eel bites your cheek, That's a moray - <b>Fabulous Furry Freak Brothers, Gilbert Shelton</b>
 Any clod can have the facts, but having opinions is an art. - <b>Charles McCabe, San Francisco Chronicle</b>
 An ounce of pretension is worth a pound of manure. - <b>Robert Harling, Steel Magnolias (1987 play / 1989 film)</b>
-A good idea doesn't care who has it, and neither should you.
+A good idea doesn't care who has it, and neither should you. - <b>Plynn Williams, Quoted by Karl Rohnke; second clause added in Usenet lore</b>
 I'm not cynical - just experienced.
 You can lie with statistics, but not to a statistician.
 I don't mind anybody dropping out of anything, but it's the imposition on somebody else I don't like.  The moment you start dropping out and then begging off somebody else to help you, then it's no good. - <b>George Harrison</b>
@@ -28,19 +28,19 @@ Violence is the last refuge of the incompetent. - <b>Isaac Asimov, Foundation (1
 Some say I'm a visionary, others say I'm just seeing things.
 A conclusion is the place where you got tired of thinking. - <b>Arthur Bloch, Murphy's Law Book Two (1980); orig. Martin H. Fischer (1944)</b>
 Nothing was ever achieved by accepting reality.
-An ounce of example is worth a pound of theory.
+An ounce of example is worth a pound of theory. - <b>Traditional Proverb, cf. Ralph Waldo Emerson, 'An ounce of action is worth a ton of theory'</b>
 It is a weak mind that can think of only one way to spell a word. - <b>Mark Twain</b>
 Man will occasionally stumble over the truth, but most of the time he will pick himself up and continue on. - <b>Winston Churchill, Attributed (Reader's Digest, Sept 1939)</b>
 The world is not to be narrowed till it will go into the understanding (which has been done hitherto), but the understanding is to be expanded and opened till it can take in the image of the world. - <b>Francis Bacon, On the Improvement of the Understanding, The Parasceve</b>
-The right to be right is irrelevant.  It is the right to be wrong that makes one free.
+The right to be right is irrelevant.  It is the right to be wrong that makes one free. - <b>John G. Diefenbaker, Paraphrase of 1960 Canadian Bill of Rights speech ('Freedom is the right to be wrong, not the right to do wrong')</b>
 Opinion: knowledge without the hindrance of silly facts.
 The road to nowhere's paved with plans that never quite got done. - <b>Mark T. Shirey</b>
 Never knock on Death's door;  ring the bell and run away!  Death really hates that! - <b>Dr. Mike Stratford, Matt Frewer, "Doctor, Doctor"</b>
 First, get the facts, then you can distort them at your leisure. - <b>Mark Twain</b>
-Life is like arriving late for a movie, having to figure out what was going on without bothering everybody with a lot of questions, and then being unexpectedly called away before you find out how it ends.
+Life is like arriving late for a movie, having to figure out what was going on without bothering everybody with a lot of questions, and then being unexpectedly called away before you find out how it ends. - <b>Joseph Campbell, Attributed (cited in Scientific American, Jan 2005)</b>
 An ill-chosen word is the fool's messenger. - <b>Norton Juster, The Phantom Tollbooth (1961), Ch. 5</b>
 "Everything you know is wrong."<br />— Firesign Theatre<br />"Everything you know is wrong - but some of it is a useful approximation!"<br />— Anonymous
-I'm leaving early today to make up for coming in late yesterday.
+I'm leaving early today to make up for coming in late yesterday. - <b>Charles Lamb, Attributed / Apocryphal (East India House anecdote, 1852)</b>
 I wept because I had no shoes, until I met a man who had no feet.  So I took his shoes. - <b>Dave Barry</b>
 In view of the stupidity of the majority of the people, a widely held opinion is more likely to be foolish than sensible. - <b>Bertrand Russell, Marriage and Morals</b>
 Fear most of all to be in error. - <b>Søren Kierkegaard, quoting Socrates</b>
@@ -78,7 +78,7 @@ If you want to read something uplifting, try a book about helium
 If most of us are ashamed of shabby clothes and shoddy furniture, let us be more ashamed of shabby ideas and shoddy philosophies.... It would be a sad situation if the wrapper were better than the meat wrapped inside it. - <b>Albert Einstein</b>
 If you want to make a deal real bad, you're going to make a real bad deal - <b>T. Boone Pickens</b>
 Work eight hours and sleep eight hours, and make sure they are not the same hours - <b>T. Boone Pickens</b>
-Every problem has at least one solution. If there are no solutions, then there is no problem.
+Every problem has at least one solution. If there are no solutions, then there is no problem. - <b>Jacques Rouxel, Les Shadoks (1968, 'S'il n'y a pas de solution, c'est qu'il n'y a pas de problème')</b>
 No person hands out their money to passersby, but to how many do each of us hand out our lives! We’re tightfisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers. - <b>Seneca, On the Shortness of Life (De Brevitate Vitae, c. 49 AD)</b>
 When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don’t repeat it. - <b>Paul "Bear" Bryant</b>
 My advice: you are on a losing street but you will learn a lot on your path to despair - <b>JohnOne, AutoIt Forums, '_TesseractScreenFind()' (June 20, 2010)</b>
@@ -88,7 +88,7 @@ The eternal difference between right and wrong does not fluctuate, it is immutab
 It is easier to fool someone than convince them they have been fooled - <b>Mark Twain</b>
 while(!Asleep) sheep++;
 Roses are FF0000, violets are 0000FF... All my base are belong to you
-If you understand what you're doing, you're not learning anything - <b>Anonymous</b>
+If you understand what you're doing, you're not learning anything - <b>Anonymous, CMU CS1 Quotations; occasionally attributed to Abraham Lincoln</b>
 Therapist: And what do we say when we're sad?<br /><br />Me: Add To Cart<br /><br />Therapist: No.
 We are, finally, all wanderers in search of knowledge. Most of us hold the dream of becoming something better than we are, something larger, richer, in some way more important to the world and ourselves. Too often, the way taken is the wrong way, with too much emphasis on what we want to have, rather than what we wish to become. - <b>Louis L'Amour, (2008). “Education of a Wandering Man”, p.215, Bantam</b>
 Kindness is in our power, even when fondness is not. - <b>Samuel Johnson, Quoted in Hester Thrale Piozzi's Anecdotes of the Late Samuel Johnson (1786)</b>
