@@ -64,3 +64,7 @@ fortune /path/to/qotd-collections/fortune/default.fortune
 fortune /path/to/qotd-collections/fortune/personal-qotd.fortune
 fortune /path/to/qotd-collections/fortune/spiceworks-wisdom.fortune
 ```
+
+---
+
+*Imagined by human, built with AI.*
