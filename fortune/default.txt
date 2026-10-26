@@ -18,6 +18,8 @@ History is made at night.  Character is what you are in the dark.<br/>
 %
 The wise man never argues with the fool; casual observers may not be able to tell which is which.
 %
+No matter what hits the fan, it's never distributed evenly.
+%
 "Everything you say is boring and incomprehensible," she said, "but that alone doesn't make it true."<br/>
 —&nbsp;<b>Kafka</b>
 %
@@ -43,6 +45,8 @@ When you're swimmin' in the creek And an eel bites your cheek, That's a moray<br
 %
 Any clod can have the facts, but having opinions is an art.<br/>
 —&nbsp;<b>Charles McCabe</b>, San Francisco Chronicle
+%
+An ounce of pretension is worth a pound of manure.
 %
 A good idea doesn't care who has it, and neither should you.
 %
@@ -78,6 +82,9 @@ An ounce of example is worth a pound of theory.
 %
 It is a weak mind that can think of only one way to spell a word.<br/>
 —&nbsp;<b>Mark Twain</b>
+%
+Man will occasionally stumble over the truth, but most of the time he will pick himself up and continue on.<br/>
+—&nbsp;<b>Winston Churchill</b>
 %
 The world is not to be narrowed till it will go into the understanding (which has been done hitherto), but the understanding is to be expanded and opened till it can take in the image of the world.<br/>
 —&nbsp;<b>Francis Bacon</b>, On the Improvement of the Understanding, The Parasceve
@@ -175,6 +182,9 @@ No matter what happens, somebody will find a way to take it too seriously.<br/>
 %
 In theory there is no difference between theory and practice. But, in practice, there is.
 %
+All that is necessary for the forces of evil to win in the world is for enough good men to do nothing.<br/>
+—&nbsp;<b>Edmund Burke</b>
+%
 Make yourself an honest man, and then you may be sure that there is one less scoundrel in the world.<br/>
 —&nbsp;<b>Thomas Carlyle</b>
 %
@@ -194,6 +204,9 @@ The world is governed more by appearance than realities so that it is fully as n
 %
 He who finds diamonds must grapple in mud and mire because diamonds are not found in polished stones. They are made.<br/>
 —&nbsp;<b>Henry Wilson</b>
+%
+The great enemy of clear language is insincerity. When there is a gap between one’s real and one’s declared aims, one turns as it were instinctively to long words and exhausted idioms, like a cuttlefish spurting out ink.<br/>
+—&nbsp;<b>George Orwell</b>
 %
 Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.<br/>
 —&nbsp;<b>General George Patton</b>
@@ -221,6 +234,9 @@ No person hands out their money to passersby, but to how many do each of us hand
 %
 When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don’t repeat it.<br/>
 —&nbsp;<b>Paul "Bear" Bryant</b>
+%
+My advice: you are on a losing street but you will learn a lot on your path to despair<br/>
+—&nbsp;<b>Unknown</b>, from a programming forum
 %
 He that complies against his Will,<br/>
 Is of his own Opinion still;<br/>
@@ -279,11 +295,17 @@ Last year we said, 'Things can't go on like this', and they didn't, they got wor
 Never be fooled by a person’s confidence. Not everyone who is confident is competent, and not everyone who is competent is confident.<br/>
 —&nbsp;<b>Unknown</b>
 %
+Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so.<br/>
+—&nbsp;<b>Noam Chomsky</b>
+%
 What you get by achieving your goals is not as important as what you become by achieving your goals.<br/>
 —&nbsp;<b>Zig Ziglar</b>
 %
 It’s a universal law – intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility.<br/>
 —&nbsp;<b>Aleksandr Solzhenitsyn</b>
+%
+The reward of friendship is itself. The man who hopes for anything else does not understand what true friendship is.<br/>
+—&nbsp;<b>Saint Aelred of Rievaulx</b>
 %
 Just remember, once you're over the hill you begin to pick up speed.<br/>
 —&nbsp;<b>Arthur Schopenhauer</b>

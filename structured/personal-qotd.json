@@ -75,7 +75,8 @@
     "attribution": "",
     "attribution_info": "",
     "tags": [
-      "wisdom"
+      "wisdom",
+      "humor"
     ],
     "source_url": ""
   },
@@ -358,8 +359,8 @@
     "attribution": "Winston Churchill",
     "attribution_info": "",
     "tags": [
-      "faith",
-      "wisdom"
+      "wisdom",
+      "humor"
     ],
     "source_url": ""
   },
@@ -878,9 +879,8 @@
     "attribution": "Thomas Paine",
     "attribution_info": "",
     "tags": [
-      "faith",
-      "theology",
-      "government"
+      "government",
+      "liberty"
     ],
     "source_url": ""
   },
@@ -922,8 +922,8 @@
     "attribution": "George Orwell",
     "attribution_info": "",
     "tags": [
-      "faith",
-      "theology"
+      "wisdom",
+      "writing"
     ],
     "source_url": ""
   },
@@ -973,9 +973,8 @@
     "attribution": "Henry Kissinger",
     "attribution_info": "",
     "tags": [
-      "faith",
-      "theology",
-      "government"
+      "government",
+      "humor"
     ],
     "source_url": ""
   },
@@ -1111,9 +1110,8 @@
     "attribution": "Unknown",
     "attribution_info": "from a programming forum",
     "tags": [
-      "faith",
-      "theology",
-      "technology"
+      "technology",
+      "humor"
     ],
     "source_url": ""
   },
@@ -1495,8 +1493,7 @@
     "attribution": "Saint Aelred of Rievaulx",
     "attribution_info": "",
     "tags": [
-      "faith",
-      "history",
+      "friendship",
       "wisdom"
     ],
     "source_url": ""

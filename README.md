@@ -11,7 +11,7 @@ Curated quote collections maintained in **two synchronized formats**:
 
 | Collection | Structured JSON | Fortune File (`%` delimited) | Quotes | Description |
 |---|---|---|---|---|
-| **Default (General Wisdom & Humor)** | [`structured/default.json`](structured/default.json) | [`fortune/default.fortune`](fortune/default.fortune) | 168 | Clean, family-friendly, secular wisdom, science, programming/technology, literature, and humor quotes suitable out-of-the-box for any website |
+| **Default (General Wisdom & Humor)** | [`structured/default.json`](structured/default.json) | [`fortune/default.fortune`](fortune/default.fortune) | 176 | Clean, family-friendly, secular wisdom, science, programming/technology, literature, and humor quotes suitable out-of-the-box for any website |
 | **Personal QOTD** | [`structured/personal-qotd.json`](structured/personal-qotd.json) | [`fortune/personal-qotd.fortune`](fortune/personal-qotd.fortune) | 168 | Scott's personal quote collection spanning wisdom, humor, science, history, technology, government, and Christian faith/theology |
 | **Spiceworks IT Wisdom** | [`structured/spiceworks-wisdom.json`](structured/spiceworks-wisdom.json) | [`fortune/spiceworks-wisdom.fortune`](fortune/spiceworks-wisdom.fortune) | 116 | Classic IT pro, sysadmin, helpdesk, networking, and troubleshooting quotes from the Spiceworks community |
 
