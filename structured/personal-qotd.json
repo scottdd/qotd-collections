@@ -812,7 +812,7 @@
   },
   {
     "id": "personal-081",
-    "quote": "You never regret making a backup, but sometimes you can really regret <i>not</i> making one",
+    "quote": "You never regret making a backup, but sometimes you can really regret not making one.",
     "attribution": "",
     "attribution_info": "",
     "tags": [
@@ -1728,6 +1728,690 @@
     "tags": [
       "faith",
       "theology"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-169",
+    "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "attribution": "Albert Einstein",
+    "attribution_info": "",
+    "tags": [
+      "humor",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-170",
+    "quote": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.",
+    "attribution": "Albert Einstein",
+    "attribution_info": "What Life Means to Einstein (1929)",
+    "tags": [
+      "science",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-171",
+    "quote": "If you can't explain it simply, you don't understand it well enough.",
+    "attribution": "Albert Einstein",
+    "attribution_info": "",
+    "tags": [
+      "wisdom",
+      "science"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-172",
+    "quote": "A person who never made a mistake never tried anything new.",
+    "attribution": "Albert Einstein",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-173",
+    "quote": "It's tough to make predictions, especially about the future.",
+    "attribution": "Yogi Berra",
+    "attribution_info": "",
+    "tags": [
+      "humor",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-174",
+    "quote": "You can observe a lot by just watching.",
+    "attribution": "Yogi Berra",
+    "attribution_info": "",
+    "tags": [
+      "humor",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-175",
+    "quote": "When you come to a fork in the road, take it.",
+    "attribution": "Yogi Berra",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-176",
+    "quote": "Nobody goes there anymore. It's too crowded.",
+    "attribution": "Yogi Berra",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-177",
+    "quote": "Never miss a good chance to shut up.",
+    "attribution": "Will Rogers",
+    "attribution_info": "",
+    "tags": [
+      "humor",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-178",
+    "quote": "Good judgment comes from experience, and a lot of that comes from bad judgment.",
+    "attribution": "Will Rogers",
+    "attribution_info": "",
+    "tags": [
+      "wisdom",
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-179",
+    "quote": "Even if you're on the right track, you'll get run over if you just sit there.",
+    "attribution": "Will Rogers",
+    "attribution_info": "",
+    "tags": [
+      "wisdom",
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-180",
+    "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "attribution": "Benjamin Franklin",
+    "attribution_info": "",
+    "tags": [
+      "wisdom",
+      "education"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-181",
+    "quote": "An investment in knowledge pays the best interest.",
+    "attribution": "Benjamin Franklin",
+    "attribution_info": "The Way to Wealth (1758)",
+    "tags": [
+      "wisdom",
+      "education"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-182",
+    "quote": "Well done is better than well said.",
+    "attribution": "Benjamin Franklin",
+    "attribution_info": "Poor Richard's Almanack",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-183",
+    "quote": "By failing to prepare, you are preparing to fail.",
+    "attribution": "Benjamin Franklin",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-184",
+    "quote": "Energy and persistence conquer all things.",
+    "attribution": "Benjamin Franklin",
+    "attribution_info": "Poor Richard's Almanack",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-185",
+    "quote": "Never put off till tomorrow what may be done day after tomorrow just as well.",
+    "attribution": "Mark Twain",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-186",
+    "quote": "The secret of getting ahead is getting started.",
+    "attribution": "Mark Twain",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-187",
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "attribution": "Mark Twain",
+    "attribution_info": "Notebook (1894)",
+    "tags": [
+      "wisdom",
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-188",
+    "quote": "A classic is something that everybody wants to have read and nobody wants to read.",
+    "attribution": "Mark Twain",
+    "attribution_info": "The Disappearance of Literature (1900)",
+    "tags": [
+      "humor",
+      "literature"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-189",
+    "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+    "attribution": "Mark Twain",
+    "attribution_info": "Notebook (1904)",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-190",
+    "quote": "Kindness is the language which the deaf can hear and the blind can see.",
+    "attribution": "Mark Twain",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-191",
+    "quote": "The reports of my death are greatly exaggerated.",
+    "attribution": "Mark Twain",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-192",
+    "quote": "A ship in port is safe, but that's not what ships are built for.",
+    "attribution": "Grace Hopper",
+    "attribution_info": "",
+    "tags": [
+      "wisdom",
+      "technology"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-193",
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.'",
+    "attribution": "Grace Hopper",
+    "attribution_info": "",
+    "tags": [
+      "technology",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-194",
+    "quote": "One accurate measurement is worth a thousand expert opinions.",
+    "attribution": "Grace Hopper",
+    "attribution_info": "",
+    "tags": [
+      "science",
+      "technology"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-195",
+    "quote": "Computer Science is no more about computers than astronomy is about telescopes.",
+    "attribution": "Edsger W. Dijkstra",
+    "attribution_info": "",
+    "tags": [
+      "technology",
+      "science"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-196",
+    "quote": "Program testing can be used to show the presence of bugs, but never to show their absence!",
+    "attribution": "Edsger W. Dijkstra",
+    "attribution_info": "Notes on Structured Programming (1970)",
+    "tags": [
+      "technology",
+      "programming"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-197",
+    "quote": "Simplicity is prerequisite for reliability.",
+    "attribution": "Edsger W. Dijkstra",
+    "attribution_info": "EWD498 (1975)",
+    "tags": [
+      "technology",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-198",
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+    "attribution": "Edsger W. Dijkstra",
+    "attribution_info": "",
+    "tags": [
+      "technology",
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-199",
+    "quote": "Premature optimization is the root of all evil (or at least most of it) in programming.",
+    "attribution": "Donald Knuth",
+    "attribution_info": "Computer Programming as an Art (1974)",
+    "tags": [
+      "technology",
+      "programming"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-200",
+    "quote": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+    "attribution": "Donald Knuth",
+    "attribution_info": "Notes on the van Emde Boas construction of priority deques (1977)",
+    "tags": [
+      "technology",
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-201",
+    "quote": "Programs are meant to be read by humans and only incidentally for computers to execute.",
+    "attribution": "Harold Abelson & Gerald Jay Sussman",
+    "attribution_info": "Structure and Interpretation of Computer Programs (1985)",
+    "tags": [
+      "technology",
+      "programming"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-202",
+    "quote": "Adding manpower to a late software project makes it later.",
+    "attribution": "Fred Brooks",
+    "attribution_info": "The Mythical Man-Month (1975)",
+    "tags": [
+      "technology",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-203",
+    "quote": "The bearing of a child takes nine months, no matter how many women are assigned.",
+    "attribution": "Fred Brooks",
+    "attribution_info": "The Mythical Man-Month (1975)",
+    "tags": [
+      "technology",
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-204",
+    "quote": "Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?",
+    "attribution": "Brian Kernighan",
+    "attribution_info": "The Elements of Programming Style (1974)",
+    "tags": [
+      "technology",
+      "programming"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-205",
+    "quote": "Controlling complexity is the essence of computer programming.",
+    "attribution": "Brian Kernighan",
+    "attribution_info": "Software Tools (1976)",
+    "tags": [
+      "technology",
+      "programming"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-206",
+    "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies.",
+    "attribution": "C.A.R. Hoare",
+    "attribution_info": "Turing Award Lecture (1980)",
+    "tags": [
+      "technology",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-207",
+    "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
+    "attribution": "Arthur C. Clarke",
+    "attribution_info": "Profiles of the Future (1973)",
+    "tags": [
+      "science",
+      "technology"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-208",
+    "quote": "The only way of discovering the limits of the possible is to venture a little way past them into the impossible.",
+    "attribution": "Arthur C. Clarke",
+    "attribution_info": "Profiles of the Future (1962)",
+    "tags": [
+      "science",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-209",
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by.",
+    "attribution": "Douglas Adams",
+    "attribution_info": "The Salmon of Doubt",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-210",
+    "quote": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.",
+    "attribution": "Douglas Adams",
+    "attribution_info": "Mostly Harmless (1992)",
+    "tags": [
+      "technology",
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-211",
+    "quote": "For a moment, nothing happened. Then, after a second or so, nothing continued to happen.",
+    "attribution": "Douglas Adams",
+    "attribution_info": "The Hitchhiker's Guide to the Galaxy (1979)",
+    "tags": [
+      "humor",
+      "literature"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-212",
+    "quote": "Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read.",
+    "attribution": "Groucho Marx",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-213",
+    "quote": "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.",
+    "attribution": "Groucho Marx",
+    "attribution_info": "",
+    "tags": [
+      "humor",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-214",
+    "quote": "Borrow money from pessimists — they don't expect it back.",
+    "attribution": "Steven Wright",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-215",
+    "quote": "If at first you don't succeed, then skydiving definitely isn't for you.",
+    "attribution": "Steven Wright",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-216",
+    "quote": "Everywhere is walking distance if you have the time.",
+    "attribution": "Steven Wright",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-217",
+    "quote": "A clear conscience is usually the sign of a bad memory.",
+    "attribution": "Steven Wright",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-218",
+    "quote": "My fake plants died because I did not pretend to water them.",
+    "attribution": "Mitch Hedberg",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-219",
+    "quote": "I haven't slept for ten days, because that would be too long.",
+    "attribution": "Mitch Hedberg",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-220",
+    "quote": "An escalator can never break: it can only become stairs.",
+    "attribution": "Mitch Hedberg",
+    "attribution_info": "",
+    "tags": [
+      "humor"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-221",
+    "quote": "We have two ears and one mouth so that we can listen twice as much as we speak.",
+    "attribution": "Epictetus",
+    "attribution_info": "Discourses",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-222",
+    "quote": "It's not what happens to you, but how you react to it that matters.",
+    "attribution": "Epictetus",
+    "attribution_info": "Enchiridion",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-223",
+    "quote": "Wealth consists not in having great possessions, but in having few wants.",
+    "attribution": "Epictetus",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-224",
+    "quote": "Luck is what happens when preparation meets opportunity.",
+    "attribution": "Seneca",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-225",
+    "quote": "Difficulties strengthen the mind, as labor does the body.",
+    "attribution": "Seneca",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-226",
+    "quote": "While we are postponing, life speeds by.",
+    "attribution": "Seneca",
+    "attribution_info": "Letters from a Stoic",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-227",
+    "quote": "Waste no more time arguing about what a good man should be. Be one.",
+    "attribution": "Marcus Aurelius",
+    "attribution_info": "Meditations",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-228",
+    "quote": "The happiness of your life depends upon the quality of your thoughts.",
+    "attribution": "Marcus Aurelius",
+    "attribution_info": "Meditations",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-229",
+    "quote": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+    "attribution": "Richard P. Feynman",
+    "attribution_info": "Cargo Cult Science (1974)",
+    "tags": [
+      "science",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-230",
+    "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+    "attribution": "Abraham Lincoln",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-231",
+    "quote": "Whatever you are, be a good one.",
+    "attribution": "Abraham Lincoln",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-232",
+    "quote": "Be yourself; everyone else is already taken.",
+    "attribution": "Oscar Wilde",
+    "attribution_info": "",
+    "tags": [
+      "humor",
+      "wisdom"
+    ],
+    "source_url": ""
+  },
+  {
+    "id": "personal-233",
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "attribution": "Chinese Proverb",
+    "attribution_info": "",
+    "tags": [
+      "wisdom"
     ],
     "source_url": ""
   }
