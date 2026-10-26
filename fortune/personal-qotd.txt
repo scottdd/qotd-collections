@@ -2,7 +2,7 @@
 —&nbsp;<b>Kevin D. Quitt</b>
 %
 He has read everything, and, to his credit, written nothing.<br/>
-—&nbsp;<b>A. J. Raffles</b>
+—&nbsp;<b>A. J. Raffles</b>, E. W. Hornung, A Thief in the Night: 'The Criminologists' Club' (1905)
 %
 You can only be young once, but you can be immature forever.<br/>
 —&nbsp;<b>Larry Anderson</b>
@@ -11,25 +11,26 @@ The most exciting phrase to hear in science, the one that heralds new discoverie
 —&nbsp;<b>Isaac Asimov</b>
 %
 I'm not afraid of dying.  I just don't want to be there when it happens.<br/>
-—&nbsp;<b>Woody Allen</b>
+—&nbsp;<b>Woody Allen</b>, Getting Even (1971), 'Death (A Play)'
 %
 History is made at night.  Character is what you are in the dark.<br/>
-—&nbsp;<b>Lord John Whorfin</b>
+—&nbsp;<b>Lord John Whorfin</b>, John Lithgow, The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)
 %
 The wise man never argues with the fool; casual observers may not be able to tell which is which.
 %
 No matter what hits the fan, it's never distributed evenly.
 %
 If we make peaceful revolution impossible, we make violent revolution inevitable.<br/>
-—&nbsp;<b>John Kennedy</b>
+—&nbsp;<b>John F. Kennedy</b>, Address on the First Anniversary of the Alliance for Progress (March 13, 1962)
 %
 "Everything you say is boring and incomprehensible," she said, "but that alone doesn't make it true."<br/>
 —&nbsp;<b>Kafka</b>
 %
 Life is what happens to you when you're busy making other plans.<br/>
-—&nbsp;<b>John Lennon</b>
+—&nbsp;<b>John Lennon</b>, 'Beautiful Boy (Darling Boy)', Double Fantasy (1980); orig. Allen Saunders (1957)
 %
-If you make people think they're thinking, they'll love you; but if you really make them think, they'll hate you.
+If you make people think they're thinking, they'll love you; but if you really make them think, they'll hate you.<br/>
+—&nbsp;<b>Don Marquis</b>, Quoted by Christopher Morley in 'The Bowling Green', New York Evening Post (Feb 12, 1923)
 %
 You can't have everything -- where would you put it?<br/>
 — Steven Wright<br/>
@@ -41,21 +42,23 @@ Neckties can impair blood flow to the brain and interfere with clear thinking, a
 The more things change, the more they stay insane.
 %
 It's only words... unless they're true.<br/>
-—&nbsp;<b>David Mamet</b>
+—&nbsp;<b>David Mamet</b>, Speed-the-Plow (1988)
 %
 When you're swimmin' in the creek And an eel bites your cheek, That's a moray<br/>
-—&nbsp;<b>Fabulous Furry Freak Brothers</b>
+—&nbsp;<b>Fabulous Furry Freak Brothers</b>, Gilbert Shelton
 %
 Any clod can have the facts, but having opinions is an art.<br/>
 —&nbsp;<b>Charles McCabe</b>, San Francisco Chronicle
 %
-An ounce of pretension is worth a pound of manure.
+An ounce of pretension is worth a pound of manure.<br/>
+—&nbsp;<b>Robert Harling</b>, Steel Magnolias (1987 play / 1989 film)
 %
 A good idea doesn't care who has it, and neither should you.
 %
 I'm not cynical - just experienced.
 %
-Democracy is the worst possible political system, except for all the others.
+Democracy is the worst possible political system, except for all the others.<br/>
+—&nbsp;<b>Winston Churchill</b>, Paraphrase of House of Commons speech (Nov 11, 1947)
 %
 You can lie with statistics, but not to a statistician.
 %
@@ -65,23 +68,24 @@ I don't mind anybody dropping out of anything, but it's the imposition on somebo
 Time flies like an arrow; fruit flies like a banana.<br/>
 —&nbsp;<b>Groucho Marx</b>
 %
-Tell us what you despise; by this are you truly known.
+Tell us what you despise; by this are you truly known.<br/>
+—&nbsp;<b>Frank Herbert</b>, Dune (1965), 'Manual of Muad'Dib' by the Princess Irulan
 %
 There is an evil tendency underlying all our technology - the tendency to do what is reasonable even when it isn't any good.<br/>
 —&nbsp;<b>Robert Pirsig</b>, Zen and the Art of Motorcycle Maintenance
 %
 The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents.<br/>
-—&nbsp;<b>H.P. Lovecraft</b>
+—&nbsp;<b>H.P. Lovecraft</b>, 'The Call of Cthulhu' (1928)
 %
 Violence is the last refuge of the incompetent.<br/>
-—&nbsp;<b>Isaac Asimov</b>
+—&nbsp;<b>Isaac Asimov</b>, Foundation (1951), spoken by Salvor Hardin
 %
 Some say I'm a visionary, others say I'm just seeing things.
 %
 It is impossible to prepare simultaneously for war and peace and still have time for golf.
 %
 A conclusion is the place where you got tired of thinking.<br/>
-—&nbsp;<b>Arthur Block</b>
+—&nbsp;<b>Arthur Bloch</b>, Murphy's Law Book Two (1980); orig. Martin H. Fischer (1944)
 %
 Nothing was ever achieved by accepting reality.
 %
@@ -91,7 +95,7 @@ It is a weak mind that can think of only one way to spell a word.<br/>
 —&nbsp;<b>Mark Twain</b>
 %
 Man will occasionally stumble over the truth, but most of the time he will pick himself up and continue on.<br/>
-—&nbsp;<b>Winston Churchill</b>
+—&nbsp;<b>Winston Churchill</b>, Attributed (Reader's Digest, Sept 1939)
 %
 The world is not to be narrowed till it will go into the understanding (which has been done hitherto), but the understanding is to be expanded and opened till it can take in the image of the world.<br/>
 —&nbsp;<b>Francis Bacon</b>, On the Improvement of the Understanding, The Parasceve
@@ -101,7 +105,7 @@ The right to be right is irrelevant.  It is the right to be wrong that makes one
 Opinion: knowledge without the hindrance of silly facts.
 %
 The road to Hell is paved with good intentions.<br/>
-—&nbsp;<b>Karl Marx</b>
+—&nbsp;<b>Karl Marx</b>, Das Kapital, Vol. 1 (1867); quoting a traditional proverb (St. Bernard of Clairvaux / Samuel Johnson)
 %
 The road to nowhere's paved with plans that never quite got done.<br/>
 —&nbsp;<b>Mark T. Shirey</b>
@@ -117,7 +121,8 @@ Life is like arriving late for a movie, having to figure out what was going on w
 Comedy is tragedy plus time.<br/>
 Politics is comedy plus pretense.
 %
-An ill-chosen word is the fool's messenger.
+An ill-chosen word is the fool's messenger.<br/>
+—&nbsp;<b>Norton Juster</b>, The Phantom Tollbooth (1961), Ch. 5
 %
 "Everything you know is wrong."<br/>
 — Firesign Theatre<br/>
@@ -146,13 +151,14 @@ I think not!<br/>
 — conceivably the last words of Rene Descartes
 %
 In times like these, it helps to recall that there have always been times like these.<br/>
-—&nbsp;<b>Paul Harvey</b>
+—&nbsp;<b>Paul Harvey</b>, The Rest of the Story
 %
 "I have read your article, Mr. Johnson, and I am no wiser now than when I started."<br/>
-"Possibly not, sir, but [you are] far better informed."
+"Possibly not, sir, but [you are] far better informed."<br/>
+—&nbsp;<b>F. E. Smith, 1st Earl of Birkenhead</b>, Adapted from his courtroom retort to a judge (via Ken Johnson's 1989 Usenet signature)
 %
 If you are lonely when you are alone, then you are in bad company.<br/>
-—&nbsp;<b>Jean Paul Sartre</b>
+—&nbsp;<b>Jean-Paul Sartre</b>, Attributed
 %
 It ain't so much the things you don't know that get you in trouble. It's the things you know that just ain't so.<br/>
 —&nbsp;<b>Artemus Ward</b>, 1834-1867
@@ -160,19 +166,19 @@ It ain't so much the things you don't know that get you in trouble. It's the thi
 When somebody says "The innocent has nothing to fear" then the innocent should be really scared.
 %
 The society which scorns excellence in plumbing as a humble activity and tolerates shoddiness in philosophy because it is an exalted activity will have neither good plumbing nor good philosophy: neither its pipes nor its theories will hold water.<br/>
-—&nbsp;<b>John W. Gardner</b>
+—&nbsp;<b>John W. Gardner</b>, Excellence: Can We Be Equal and Excellent Too? (1961)
 %
 Few things help an individual more than to place responsibility upon him and to let him know that you trust him.<br/>
-—&nbsp;<b>Booker T. Washington</b>
+—&nbsp;<b>Booker T. Washington</b>, Up from Slavery (1901)
 %
 The road to ruin is always kept in good repair.<br/>
-—&nbsp;<b>Anonymous</b>
+—&nbsp;<b>Josh Billings</b>, Josh Billings: His Sayings (1865)
 %
 Education without values, as useful as it is, seems rather to make man a more clever devil.<br/>
-—&nbsp;<b>C.S. Lewis</b>
+—&nbsp;<b>C.S. Lewis</b>, Attributed paraphrase of The Abolition of Man (1943)
 %
 This is not a novel to be tossed aside lightly. It should be thrown with great force.<br/>
-—&nbsp;<b>Dorothy Parker</b>
+—&nbsp;<b>Dorothy Parker</b>, Book review in The New Yorker
 %
 Where a calculator on the ENIAC is equipped with 19,999 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps only weigh 1.5 tons.<br/>
 —&nbsp;<b>Popular Mechanics</b>, 1949
@@ -181,13 +187,13 @@ Where a calculator on the ENIAC is equipped with 19,999 vacuum tubes and weighs 
 —&nbsp;<b>A LaCarte</b>, Denny's hometown menu circa 1992
 %
 Our life is frittered away by detail . . . . Simplify, Simplify.<br/>
-—&nbsp;<b>Henry David Thoreau</b>
+—&nbsp;<b>Henry David Thoreau</b>, Walden (1854), Ch. 2: 'Where I Lived, and What I Lived For'
 %
 Sanity is very rare.<br/>
-—&nbsp;<b>Ralph Waldo Emerson</b>
+—&nbsp;<b>Ralph Waldo Emerson</b>, Essays: Second Series (1844), 'Nominalist and Realist'
 %
 To fall into a habit is to cease to be.<br/>
-—&nbsp;<b>Miguel de Unamuno</b>
+—&nbsp;<b>Miguel de Unamuno</b>, Tragic Sense of Life (1913)
 %
 I feel the greatest gift we can give to anybody is the gift of our honest self.<br/>
 —&nbsp;<b>Fred Rogers</b>, Mister Rogers' Neighborhood
@@ -201,21 +207,22 @@ A true friend will be as much an enemy to your flesh as God is<br/>
 No matter what happens, somebody will find a way to take it too seriously.<br/>
 —&nbsp;<b>Dave Barry</b>
 %
-In theory there is no difference between theory and practice. But, in practice, there is.
+In theory there is no difference between theory and practice. But, in practice, there is.<br/>
+—&nbsp;<b>Benjamin Brewster</b>, The Yale Literary Magazine (Feb 1882); later attributed to Jan L. A. van de Snepscheut & Yogi Berra
 %
 Most would rather endure comfortable bondage, than experience uneasy freedom.
 %
 All that is necessary for the forces of evil to win in the world is for enough good men to do nothing.<br/>
-—&nbsp;<b>Edmund Burke</b>
+—&nbsp;<b>Edmund Burke</b>, Attributed (popular paraphrase; earliest close match John Stuart Mill, 1867)
 %
 Make yourself an honest man, and then you may be sure that there is one less scoundrel in the world.<br/>
-—&nbsp;<b>Thomas Carlyle</b>
+—&nbsp;<b>Thomas Carlyle</b>, Attributed
 %
 The ruling class has the schools and press under its thumb. This enables it to sway the emotions of the masses.<br/>
-—&nbsp;<b>Albert Einstein</b>
+—&nbsp;<b>Albert Einstein</b>, Letter to H. J. W. Hetherington (1933)
 %
 The most important service rendered by the press and the magazines is that of educating people to approach printed matter with distrust.<br/>
-—&nbsp;<b>Samuel Butler</b>
+—&nbsp;<b>Samuel Butler</b>, The Note-Books of Samuel Butler (1912)
 %
 Why has government been instituted at all? Because the passions of men will not conform to the dictates of reason and justice without constraint.<br/>
 —&nbsp;<b>Alexander Hamilton</b>, Federalist No. 15
@@ -229,10 +236,10 @@ I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 You never regret making a backup, but sometimes you can really regret not making one.
 %
 There is nothing so powerful as truth, and often nothing so strange.<br/>
-—&nbsp;<b>Daniel Webster</b>
+—&nbsp;<b>Daniel Webster</b>, Argument in the White Murder Case (April 6, 1830)
 %
 If one tells the truth, one is sure sooner or later to be found out<br/>
-—&nbsp;<b>Oscar Wilde</b>
+—&nbsp;<b>Oscar Wilde</b>, 'Phrases and Philosophies for the Use of the Young', The Chameleon (Dec 1894)
 %
 The world is governed more by appearance than realities so that it is fully as necessary to seem to know something as to know it.<br/>
 —&nbsp;<b>Daniel Webster</b>
@@ -241,13 +248,13 @@ Live each day to the fullest. Live each day with enthusiasm, optimism and hope. 
 —&nbsp;<b>Ronald Reagan</b>
 %
 And can the liberties of a nation be thought secure when we have removed their only firm basis, a conviction in the minds of the people that these liberties are the gift of God?<br/>
-—&nbsp;<b>Thomas Jefferson</b>
+—&nbsp;<b>Thomas Jefferson</b>, Notes on the State of Virginia (1785), Query XVIII
 %
 Society in every state is a blessing, but government, even in its best state, is but a necessary evil; in its worst state an intolerable one...<br/>
-—&nbsp;<b>Thomas Paine</b>
+—&nbsp;<b>Thomas Paine</b>, Common Sense (1776)
 %
 A tyrant must put on the appearance of uncommon devotion to religion. Subjects are less apprehensive of illegal treatment from a ruler whom they consider god-fearing and pious.<br/>
-—&nbsp;<b>Aristotle</b>
+—&nbsp;<b>Aristotle</b>, Politics, Book V, Ch. 11
 %
 Something rather odd happened the other day. If you go to NASA’s Web site and look at the ‘U.S. surface air temperature’ rankings for the lower 48 states, you might notice that something has changed. Then again, you might not. They’re not issuing any press releases about it. But they have quietly revised their All-Time Hit Parade for U.S. temperatures. The ‘hottest year on record’ is no longer 1998, but 1934. Another alleged swelterer, the year 2001, has now dropped out of the Top 10 altogether, and most of the rest of the 21st century—2000, 2002, 2003, 2004—plummeted even lower down the Hot 100. In fact, every supposedly hot year from the Nineties and this decade has had its temperature rating reduced. Four of America’s Top 10 hottest years turn out to be from the 1930s, that notorious decade when we all drove around in huge SUVs with the air-conditioning on full-blast. If climate change is, as Al Gore says, the most important issue anyone’s ever faced in the history of anything ever, then Franklin Roosevelt didn’t have a word to say about it. And yet we survived.<br/>
 —&nbsp;<b>Mark Steyn</b>
@@ -256,10 +263,10 @@ He who finds diamonds must grapple in mud and mire because diamonds are not foun
 —&nbsp;<b>Henry Wilson</b>
 %
 The great enemy of clear language is insincerity. When there is a gap between one’s real and one’s declared aims, one turns as it were instinctively to long words and exhausted idioms, like a cuttlefish spurting out ink.<br/>
-—&nbsp;<b>George Orwell</b>
+—&nbsp;<b>George Orwell</b>, 'Politics and the English Language' (1946)
 %
 Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.<br/>
-—&nbsp;<b>General George Patton</b>
+—&nbsp;<b>General George S. Patton</b>, War as I Knew It (1947)
 %
 The country is behind you 50 percent.<br/>
 —&nbsp;<b>Bob Hope</b>, to U.S. troops in Vietnam
@@ -267,7 +274,8 @@ The country is behind you 50 percent.<br/>
 It's tough being both very curious and very lazy.<br/>
 —&nbsp;<b>Anonymous</b>
 %
-If you don't have time to do something right the first time, how are you going to find time to do it again?
+If you don't have time to do something right the first time, how are you going to find time to do it again?<br/>
+—&nbsp;<b>John Wooden</b>, UCLA Head Basketball Coach
 %
 Corrupt politicians make the other ten percent look bad.<br/>
 —&nbsp;<b>Henry Kissinger</b>
@@ -279,7 +287,7 @@ It is also of the highest importance from the practical standpoint that we decid
 —&nbsp;<b>R.A. Torrey</b>, The Person and Work of the Holy Spirit
 %
 When you see that trading is done, not by consent, but by compulsion – when you see that in order to produce, you need to obtain permission from men who produce nothing – when you see that money is flowing to those who deal, not in goods, but in favors – when you see that men get richer by graft and by pull than by work, and your laws don’t protect you against them, but protect them against you – when you see corruption being rewarded and honesty becoming a self-sacrifice – you may know that your society is doomed.<br/>
-—&nbsp;<b>Ayn Rand</b>
+—&nbsp;<b>Ayn Rand</b>, Atlas Shrugged (1957), Francisco d'Anconia's 'Money Speech'
 %
 If you want to read something uplifting, try a book about helium
 %
@@ -298,25 +306,25 @@ Work eight hours and sleep eight hours, and make sure they are not the same hour
 Every problem has at least one solution. If there are no solutions, then there is no problem.
 %
 No person hands out their money to passersby, but to how many do each of us hand out our lives! We’re tightfisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.<br/>
-—&nbsp;<b>Seneca</b>
+—&nbsp;<b>Seneca</b>, On the Shortness of Life (De Brevitate Vitae, c. 49 AD)
 %
 When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don’t repeat it.<br/>
 —&nbsp;<b>Paul "Bear" Bryant</b>
 %
 It is no sign of health to be well adjusted to a sick society.<br/>
-—&nbsp;<b>Unknown</b>
+—&nbsp;<b>Jiddu Krishnamurti</b>, Attributed summary of Commentaries on Living, Series 3 (1960); cited in Mark Vonnegut's The Eden Express (1975)
 %
 My advice: you are on a losing street but you will learn a lot on your path to despair<br/>
-—&nbsp;<b>Unknown</b>, from a programming forum
+—&nbsp;<b>JohnOne</b>, AutoIt Forums, '_TesseractScreenFind()' (June 20, 2010) (https://www.autoitscript.com/forum/topic/115979-_tesseractscreenfind/)
 %
 He who begins by seeking God within himself may end by confusing himself with God.<br/>
-—&nbsp;<b>B.B. Warfield</b>
+—&nbsp;<b>B.B. Warfield</b>, 'Mysticism and Christianity', Biblical and Theological Studies (1912)
 %
 He that complies against his Will,<br/>
 Is of his own Opinion still;<br/>
 Which he may adhere to, yet disown,<br/>
 For Reasons to himself best known<br/>
-—&nbsp;<b>Samuel Butler</b>
+—&nbsp;<b>Samuel Butler</b>, Hudibras, Part III, Canto III (1678)
 %
 In a country that doesn't discriminate between fame and infamy, the latter presents itself as plainly more achievable.<br/>
 —&nbsp;<b>Lionel Shriver</b>, We Need to Talk About Kevin
@@ -325,7 +333,7 @@ The eternal difference between right and wrong does not fluctuate, it is immutab
 —&nbsp;<b>Patrick Henry</b>
 %
 Being bad at data analysis is no reason to be mad at me<br/>
-—&nbsp;<b>Scott Adams</b> (https://www.scottadamssays.com/episode-1843-scott-adams-being-bad-at-data-analysis-is-no-reason-to-be-mad-at-me-and-more-fun/)
+—&nbsp;<b>Scott Adams</b>, Coffee with Scott Adams, Episode 1843 (2022) (https://www.scottadamssays.com/episode-1843-scott-adams-being-bad-at-data-analysis-is-no-reason-to-be-mad-at-me-and-more-fun/)
 %
 It is easier to fool someone than convince them they have been fooled<br/>
 —&nbsp;<b>Mark Twain</b>
@@ -341,7 +349,7 @@ If you understand what you're doing, you're not learning anything<br/>
 —&nbsp;<b>Anonymous</b>
 %
 We can have no power from Christ unless we live in a persuasion that we have none of our own.<br/>
-—&nbsp;<b>John Owen</b>
+—&nbsp;<b>John Owen</b>, The Works of John Owen (1826), p. 187
 %
 Therapist: And what do we say when we're sad?<br/>
 <br/>
@@ -366,27 +374,27 @@ We are, finally, all wanderers in search of knowledge. Most of us hold the dream
 —&nbsp;<b>Louis L'Amour</b>, (2008). “Education of a Wandering Man”, p.215, Bantam
 %
 A free society is one where it is safe to be unpopular.<br/>
-—&nbsp;<b>Adlai Stevenson</b>
+—&nbsp;<b>Adlai Stevenson</b>, Speech in Detroit, Michigan (Oct 7, 1952)
 %
 The mystery of government is not how Washington works but how to make it stop.<br/>
-—&nbsp;<b>P. J. O'Rourke</b>
+—&nbsp;<b>P. J. O'Rourke</b>, Parliament of Whores (1991)
 %
 Kindness is in our power, even when fondness is not.<br/>
-—&nbsp;<b>Samuel Johnson</b>
+—&nbsp;<b>Samuel Johnson</b>, Quoted in Hester Thrale Piozzi's Anecdotes of the Late Samuel Johnson (1786)
 %
 Actual conversation overheard at doctor's office: "You're a bit anemic, but we'll get it ironed out."
 %
 By trying, we can easily learn to endure adversity. Another man's, I mean.<br/>
-—&nbsp;<b>Mark Twain</b>
+—&nbsp;<b>Mark Twain</b>, Following the Equator (1897), Ch. 43
 %
 God, grant me the serenity to accept the people I cannot change, the courage to change the one I can, and the wisdom to know it's me.<br/>
 —&nbsp;<b>Unknown</b>, variation of an excerpt from 'The Serenity Prayer' by Reinhold Niebuhr
 %
 Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon.<br/>
-—&nbsp;<b>Susan Ertz</b>
+—&nbsp;<b>Susan Ertz</b>, Anger in the Sky (1943)
 %
 Experience is that marvelous thing that enables you to recognize a mistake when you make it again<br/>
-—&nbsp;<b>F.P. Jones</b>
+—&nbsp;<b>Franklin P. Jones</b>, The Saturday Evening Post
 %
 Learning the secret of flight from a bird was a good deal like learning the secret of magic from a magician.<br/>
 —&nbsp;<b>Orville Wright</b>
@@ -398,7 +406,7 @@ You don't have a soul, you are a soul. You have a body.<br/>
 —&nbsp;<b>C.S. Lewis</b>
 %
 What comes into our minds when we think about God is the most important thing about us<br/>
-—&nbsp;<b>A.W. Tozer</b>
+—&nbsp;<b>A.W. Tozer</b>, The Knowledge of the Holy (1961), Ch. 1
 %
 Last year we said, 'Things can't go on like this', and they didn't, they got worse.<br/>
 —&nbsp;<b>Will Rogers</b>
@@ -407,7 +415,7 @@ There are two theories to arguing with a woman. Neither works.<br/>
 —&nbsp;<b>Will Rogers</b>
 %
 The more corrupt the state, the more numerous the laws.<br/>
-—&nbsp;<b>Tacitus</b>
+—&nbsp;<b>Tacitus</b>, Annals, Book III, 27
 %
 Never be fooled by a person’s confidence. Not everyone who is confident is competent, and not everyone who is competent is confident.<br/>
 —&nbsp;<b>Unknown</b>
@@ -419,28 +427,28 @@ What you get by achieving your goals is not as important as what you become by a
 —&nbsp;<b>Zig Ziglar</b>
 %
 In my many years I have come to a conclusion that one useless man is a shame, two is a law firm, and three or more is a congress.<br/>
-—&nbsp;<b>John Adams</b>
+—&nbsp;<b>John Adams</b>, Peter Stone, 1776 (1969 musical / 1972 film, spoken by the character John Adams)
 %
 It’s a universal law – intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility.<br/>
-—&nbsp;<b>Aleksandr Solzhenitsyn</b>
+—&nbsp;<b>Aleksandr Solzhenitsyn</b>, August 1914 (1971)
 %
 The reward of friendship is itself. The man who hopes for anything else does not understand what true friendship is.<br/>
-—&nbsp;<b>Saint Aelred of Rievaulx</b>
+—&nbsp;<b>Saint Aelred of Rievaulx</b>, Spiritual Friendship (De Spiritali Amicitia, c. 1164)
 %
 Just remember, once you're over the hill you begin to pick up speed.<br/>
 —&nbsp;<b>Arthur Schopenhauer</b>
 %
 One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool<br/>
-—&nbsp;<b>George Orwell</b>
+—&nbsp;<b>George Orwell</b>, 'Notes on Nationalism' (May 1945)
 %
 All political responsibility abdicated by the general public will be taken up by tyrants and used against you. So you either take up the responsibility or you pay the consequence<br/>
 —&nbsp;<b>Jordan Peterson</b>
 %
 The price good men pay for indifference to public affairs is to be ruled by evil men<br/>
-—&nbsp;<b>Plato</b>
+—&nbsp;<b>Plato</b>, The Republic, Book I, 347c
 %
 The study of history is a powerful antidote to contemporary arrogance. It is humbling to discover how many of our glib assumptions, which seem to us novel and plausible, have been tested before, not once but many times and in innumerable guises; and discovered to be, at great human cost, wholly false.<br/>
-—&nbsp;<b>Paul Johnson</b>
+—&nbsp;<b>Paul Johnson</b>, The Recovery of Freedom (1980)
 %
 There are no ordinary people. You have never talked to a mere mortal. Nations, cultures, arts, civilizations - these are mortal, and their life is to ours as the life of a gnat. But it is immortals whom we joke with, work with, marry, snub and exploit - immortal horrors or everlasting splendors. This does not mean that we are to be perpetually solemn. We must play. But our merriment must be of that kind (and it is, in fact, the merriest kind) which exists between people who have, from the outset, taken each other seriously - no flippancy, no superiority, no presumption.<br/>
 —&nbsp;<b>C.S. Lewis</b>, The Weight of Glory
@@ -488,10 +496,10 @@ What fools are they, who for a drop of pleasure drink a sea of wrath!<br/>
 —&nbsp;<b>Thomas Watson</b>, Glorious Gospel
 %
 To will is of nature, but to will aright is of grace<br/>
-—&nbsp;<b>Augustine</b>
+—&nbsp;<b>Saint Augustine of Hippo</b>, Against Two Letters of the Pelagians (c. 420 AD)
 %
 My memory is nearly gone, but I remember two things: That I am a great sinner, and Christ is a great savior!<br/>
-—&nbsp;<b>John Newton</b>
+—&nbsp;<b>John Newton</b>, Recorded by William Jay in Memoirs of the Life and Character of the Late Rev. Cornelius Winter (1808)
 %
 Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.<br/>
 —&nbsp;<b>Albert Einstein</b>
@@ -542,7 +550,7 @@ Energy and persistence conquer all things.<br/>
 —&nbsp;<b>Benjamin Franklin</b>, Poor Richard's Almanack
 %
 Never put off till tomorrow what may be done day after tomorrow just as well.<br/>
-—&nbsp;<b>Mark Twain</b>
+—&nbsp;<b>Mark Twain</b>, 'Memoranda', The Galaxy magazine (May 1870)
 %
 The secret of getting ahead is getting started.<br/>
 —&nbsp;<b>Mark Twain</b>
@@ -557,10 +565,10 @@ Whenever you find yourself on the side of the majority, it is time to pause and 
 —&nbsp;<b>Mark Twain</b>, Notebook (1904)
 %
 Kindness is the language which the deaf can hear and the blind can see.<br/>
-—&nbsp;<b>Mark Twain</b>
+—&nbsp;<b>Mark Twain</b>, Attributed (orig. Christian Nestell Bovee, Intuitions and Summaries of Thought, 1862)
 %
 The reports of my death are greatly exaggerated.<br/>
-—&nbsp;<b>Mark Twain</b>
+—&nbsp;<b>Mark Twain</b>, Note to Frank Marshall White, New York Journal (June 2, 1897)
 %
 A ship in port is safe, but that's not what ships are built for.<br/>
 —&nbsp;<b>Grace Hopper</b>
@@ -656,13 +664,13 @@ It's not what happens to you, but how you react to it that matters.<br/>
 —&nbsp;<b>Epictetus</b>, Enchiridion
 %
 Wealth consists not in having great possessions, but in having few wants.<br/>
-—&nbsp;<b>Epictetus</b>
+—&nbsp;<b>Epictetus</b>, Fragments (Stobaeus, Florilegium)
 %
 Luck is what happens when preparation meets opportunity.<br/>
 —&nbsp;<b>Seneca</b>
 %
 Difficulties strengthen the mind, as labor does the body.<br/>
-—&nbsp;<b>Seneca</b>
+—&nbsp;<b>Seneca</b>, Moral Letters to Lucilius (Epistulae Morales ad Lucilium), Letter 106
 %
 While we are postponing, life speeds by.<br/>
 —&nbsp;<b>Seneca</b>, Letters from a Stoic

@@ -13,7 +13,7 @@
     "id": "default-002",
     "quote": "He has read everything, and, to his credit, written nothing.",
     "attribution": "A. J. Raffles",
-    "attribution_info": "",
+    "attribution_info": "E. W. Hornung, A Thief in the Night: 'The Criminologists' Club' (1905)",
     "tags": [
       "wisdom"
     ],
@@ -43,7 +43,7 @@
     "id": "default-005",
     "quote": "I'm not afraid of dying.  I just don't want to be there when it happens.",
     "attribution": "Woody Allen",
-    "attribution_info": "",
+    "attribution_info": "Getting Even (1971), 'Death (A Play)'",
     "tags": [
       "humor"
     ],
@@ -53,7 +53,7 @@
     "id": "default-006",
     "quote": "History is made at night.  Character is what you are in the dark.",
     "attribution": "Lord John Whorfin",
-    "attribution_info": "",
+    "attribution_info": "John Lithgow, The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)",
     "tags": [
       "wisdom"
     ],
@@ -94,7 +94,7 @@
     "id": "default-010",
     "quote": "Life is what happens to you when you're busy making other plans.",
     "attribution": "John Lennon",
-    "attribution_info": "",
+    "attribution_info": "'Beautiful Boy (Darling Boy)', Double Fantasy (1980); orig. Allen Saunders (1957)",
     "tags": [
       "wisdom"
     ],
@@ -103,8 +103,8 @@
   {
     "id": "default-011",
     "quote": "If you make people think they're thinking, they'll love you; but if you really make them think, they'll hate you.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Don Marquis",
+    "attribution_info": "Quoted by Christopher Morley in 'The Bowling Green', New York Evening Post (Feb 12, 1923)",
     "tags": [
       "wisdom"
     ],
@@ -144,7 +144,7 @@
     "id": "default-015",
     "quote": "It's only words... unless they're true.",
     "attribution": "David Mamet",
-    "attribution_info": "",
+    "attribution_info": "Speed-the-Plow (1988)",
     "tags": [
       "wisdom"
     ],
@@ -154,7 +154,7 @@
     "id": "default-016",
     "quote": "When you're swimmin' in the creek And an eel bites your cheek, That's a moray",
     "attribution": "Fabulous Furry Freak Brothers",
-    "attribution_info": "",
+    "attribution_info": "Gilbert Shelton",
     "tags": [
       "humor"
     ],
@@ -173,8 +173,8 @@
   {
     "id": "default-018",
     "quote": "An ounce of pretension is worth a pound of manure.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Robert Harling",
+    "attribution_info": "Steel Magnolias (1987 play / 1989 film)",
     "tags": [
       "humor"
     ],
@@ -234,8 +234,8 @@
   {
     "id": "default-024",
     "quote": "Tell us what you despise; by this are you truly known.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Frank Herbert",
+    "attribution_info": "Dune (1965), 'Manual of Muad'Dib' by the Princess Irulan",
     "tags": [
       "wisdom"
     ],
@@ -255,7 +255,7 @@
     "id": "default-026",
     "quote": "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents.",
     "attribution": "H.P. Lovecraft",
-    "attribution_info": "",
+    "attribution_info": "'The Call of Cthulhu' (1928)",
     "tags": [
       "wisdom"
     ],
@@ -265,7 +265,7 @@
     "id": "default-027",
     "quote": "Violence is the last refuge of the incompetent.",
     "attribution": "Isaac Asimov",
-    "attribution_info": "",
+    "attribution_info": "Foundation (1951), spoken by Salvor Hardin",
     "tags": [
       "wisdom"
     ],
@@ -284,8 +284,8 @@
   {
     "id": "default-029",
     "quote": "A conclusion is the place where you got tired of thinking.",
-    "attribution": "Arthur Block",
-    "attribution_info": "",
+    "attribution": "Arthur Bloch",
+    "attribution_info": "Murphy's Law Book Two (1980); orig. Martin H. Fischer (1944)",
     "tags": [
       "wisdom"
     ],
@@ -325,7 +325,7 @@
     "id": "default-033",
     "quote": "Man will occasionally stumble over the truth, but most of the time he will pick himself up and continue on.",
     "attribution": "Winston Churchill",
-    "attribution_info": "",
+    "attribution_info": "Attributed (Reader's Digest, Sept 1939)",
     "tags": [
       "wisdom",
       "humor"
@@ -405,8 +405,8 @@
   {
     "id": "default-041",
     "quote": "An ill-chosen word is the fool's messenger.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Norton Juster",
+    "attribution_info": "The Phantom Tollbooth (1961), Ch. 5",
     "tags": [
       "wisdom"
     ],
@@ -476,7 +476,7 @@
     "id": "default-048",
     "quote": "In times like these, it helps to recall that there have always been times like these.",
     "attribution": "Paul Harvey",
-    "attribution_info": "",
+    "attribution_info": "The Rest of the Story",
     "tags": [
       "wisdom"
     ],
@@ -485,8 +485,8 @@
   {
     "id": "default-049",
     "quote": "\"I have read your article, Mr. Johnson, and I am no wiser now than when I started.\"\n\"Possibly not, sir, but [you are] far better informed.\"",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "F. E. Smith, 1st Earl of Birkenhead",
+    "attribution_info": "Adapted from his courtroom retort to a judge (via Ken Johnson's 1989 Usenet signature)",
     "tags": [
       "wisdom"
     ],
@@ -495,8 +495,8 @@
   {
     "id": "default-050",
     "quote": "If you are lonely when you are alone, then you are in bad company.",
-    "attribution": "Jean Paul Sartre",
-    "attribution_info": "",
+    "attribution": "Jean-Paul Sartre",
+    "attribution_info": "Attributed",
     "tags": [
       "wisdom"
     ],
@@ -516,7 +516,7 @@
     "id": "default-052",
     "quote": "The society which scorns excellence in plumbing as a humble activity and tolerates shoddiness in philosophy because it is an exalted activity will have neither good plumbing nor good philosophy: neither its pipes nor its theories will hold water.",
     "attribution": "John W. Gardner",
-    "attribution_info": "",
+    "attribution_info": "Excellence: Can We Be Equal and Excellent Too? (1961)",
     "tags": [
       "wisdom"
     ],
@@ -526,7 +526,7 @@
     "id": "default-053",
     "quote": "Few things help an individual more than to place responsibility upon him and to let him know that you trust him.",
     "attribution": "Booker T. Washington",
-    "attribution_info": "",
+    "attribution_info": "Up from Slavery (1901)",
     "tags": [
       "wisdom",
       "leadership"
@@ -536,8 +536,8 @@
   {
     "id": "default-054",
     "quote": "The road to ruin is always kept in good repair.",
-    "attribution": "Anonymous",
-    "attribution_info": "",
+    "attribution": "Josh Billings",
+    "attribution_info": "Josh Billings: His Sayings (1865)",
     "tags": [
       "wisdom"
     ],
@@ -547,7 +547,7 @@
     "id": "default-055",
     "quote": "This is not a novel to be tossed aside lightly. It should be thrown with great force.",
     "attribution": "Dorothy Parker",
-    "attribution_info": "",
+    "attribution_info": "Book review in The New Yorker",
     "tags": [
       "wisdom"
     ],
@@ -577,7 +577,7 @@
     "id": "default-058",
     "quote": "Our life is frittered away by detail . . . . Simplify, Simplify.",
     "attribution": "Henry David Thoreau",
-    "attribution_info": "",
+    "attribution_info": "Walden (1854), Ch. 2: 'Where I Lived, and What I Lived For'",
     "tags": [
       "wisdom"
     ],
@@ -587,7 +587,7 @@
     "id": "default-059",
     "quote": "Sanity is very rare.",
     "attribution": "Ralph Waldo Emerson",
-    "attribution_info": "",
+    "attribution_info": "Essays: Second Series (1844), 'Nominalist and Realist'",
     "tags": [
       "wisdom"
     ],
@@ -597,7 +597,7 @@
     "id": "default-060",
     "quote": "To fall into a habit is to cease to be.",
     "attribution": "Miguel de Unamuno",
-    "attribution_info": "",
+    "attribution_info": "Tragic Sense of Life (1913)",
     "tags": [
       "wisdom"
     ],
@@ -636,8 +636,8 @@
   {
     "id": "default-064",
     "quote": "In theory there is no difference between theory and practice. But, in practice, there is.",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "Benjamin Brewster",
+    "attribution_info": "The Yale Literary Magazine (Feb 1882); later attributed to Jan L. A. van de Snepscheut & Yogi Berra",
     "tags": [
       "wisdom"
     ],
@@ -647,7 +647,7 @@
     "id": "default-065",
     "quote": "All that is necessary for the forces of evil to win in the world is for enough good men to do nothing.",
     "attribution": "Edmund Burke",
-    "attribution_info": "",
+    "attribution_info": "Attributed (popular paraphrase; earliest close match John Stuart Mill, 1867)",
     "tags": [
       "wisdom"
     ],
@@ -657,7 +657,7 @@
     "id": "default-066",
     "quote": "Make yourself an honest man, and then you may be sure that there is one less scoundrel in the world.",
     "attribution": "Thomas Carlyle",
-    "attribution_info": "",
+    "attribution_info": "Attributed",
     "tags": [
       "wisdom"
     ],
@@ -667,7 +667,7 @@
     "id": "default-067",
     "quote": "The most important service rendered by the press and the magazines is that of educating people to approach printed matter with distrust.",
     "attribution": "Samuel Butler",
-    "attribution_info": "",
+    "attribution_info": "The Note-Books of Samuel Butler (1912)",
     "tags": [
       "wisdom"
     ],
@@ -688,7 +688,7 @@
     "id": "default-069",
     "quote": "There is nothing so powerful as truth, and often nothing so strange.",
     "attribution": "Daniel Webster",
-    "attribution_info": "",
+    "attribution_info": "Argument in the White Murder Case (April 6, 1830)",
     "tags": [
       "wisdom"
     ],
@@ -698,7 +698,7 @@
     "id": "default-070",
     "quote": "If one tells the truth, one is sure sooner or later to be found out",
     "attribution": "Oscar Wilde",
-    "attribution_info": "",
+    "attribution_info": "'Phrases and Philosophies for the Use of the Young', The Chameleon (Dec 1894)",
     "tags": [
       "humor",
       "wisdom"
@@ -729,7 +729,7 @@
     "id": "default-073",
     "quote": "The great enemy of clear language is insincerity. When there is a gap between one’s real and one’s declared aims, one turns as it were instinctively to long words and exhausted idioms, like a cuttlefish spurting out ink.",
     "attribution": "George Orwell",
-    "attribution_info": "",
+    "attribution_info": "'Politics and the English Language' (1946)",
     "tags": [
       "wisdom",
       "writing"
@@ -739,8 +739,8 @@
   {
     "id": "default-074",
     "quote": "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.",
-    "attribution": "General George Patton",
-    "attribution_info": "",
+    "attribution": "General George S. Patton",
+    "attribution_info": "War as I Knew It (1947)",
     "tags": [
       "wisdom"
     ],
@@ -759,8 +759,8 @@
   {
     "id": "default-076",
     "quote": "If you don't have time to do something right the first time, how are you going to find time to do it again?",
-    "attribution": "",
-    "attribution_info": "",
+    "attribution": "John Wooden",
+    "attribution_info": "UCLA Head Basketball Coach",
     "tags": [
       "wisdom"
     ],
@@ -821,7 +821,7 @@
     "id": "default-082",
     "quote": "No person hands out their money to passersby, but to how many do each of us hand out our lives! We’re tightfisted with property and money, yet think too little of wasting time, the one thing about which we should all be the toughest misers.",
     "attribution": "Seneca",
-    "attribution_info": "",
+    "attribution_info": "On the Shortness of Life (De Brevitate Vitae, c. 49 AD)",
     "tags": [
       "wisdom"
     ],
@@ -840,19 +840,19 @@
   {
     "id": "default-084",
     "quote": "My advice: you are on a losing street but you will learn a lot on your path to despair",
-    "attribution": "Unknown",
-    "attribution_info": "from a programming forum",
+    "attribution": "JohnOne",
+    "attribution_info": "AutoIt Forums, '_TesseractScreenFind()' (June 20, 2010)",
     "tags": [
       "technology",
       "humor"
     ],
-    "source_url": ""
+    "source_url": "https://www.autoitscript.com/forum/topic/115979-_tesseractscreenfind/"
   },
   {
     "id": "default-085",
     "quote": "He that complies against his Will,\nIs of his own Opinion still;\nWhich he may adhere to, yet disown,\nFor Reasons to himself best known",
     "attribution": "Samuel Butler",
-    "attribution_info": "",
+    "attribution_info": "Hudibras, Part III, Canto III (1678)",
     "tags": [
       "wisdom"
     ],
@@ -944,7 +944,7 @@
     "id": "default-094",
     "quote": "Kindness is in our power, even when fondness is not.",
     "attribution": "Samuel Johnson",
-    "attribution_info": "",
+    "attribution_info": "Quoted in Hester Thrale Piozzi's Anecdotes of the Late Samuel Johnson (1786)",
     "tags": [
       "wisdom"
     ],
@@ -964,7 +964,7 @@
     "id": "default-096",
     "quote": "By trying, we can easily learn to endure adversity. Another man's, I mean.",
     "attribution": "Mark Twain",
-    "attribution_info": "",
+    "attribution_info": "Following the Equator (1897), Ch. 43",
     "tags": [
       "humor"
     ],
@@ -974,7 +974,7 @@
     "id": "default-097",
     "quote": "Millions long for immortality who do not know what to do with themselves on a rainy Sunday afternoon.",
     "attribution": "Susan Ertz",
-    "attribution_info": "",
+    "attribution_info": "Anger in the Sky (1943)",
     "tags": [
       "humor"
     ],
@@ -983,8 +983,8 @@
   {
     "id": "default-098",
     "quote": "Experience is that marvelous thing that enables you to recognize a mistake when you make it again",
-    "attribution": "F.P. Jones",
-    "attribution_info": "",
+    "attribution": "Franklin P. Jones",
+    "attribution_info": "The Saturday Evening Post",
     "tags": [
       "wisdom"
     ],
@@ -1056,7 +1056,7 @@
     "id": "default-105",
     "quote": "It’s a universal law – intolerance is the first sign of an inadequate education. An ill-educated person behaves with arrogant impatience, whereas truly profound education breeds humility.",
     "attribution": "Aleksandr Solzhenitsyn",
-    "attribution_info": "",
+    "attribution_info": "August 1914 (1971)",
     "tags": [
       "wisdom"
     ],
@@ -1066,7 +1066,7 @@
     "id": "default-106",
     "quote": "The reward of friendship is itself. The man who hopes for anything else does not understand what true friendship is.",
     "attribution": "Saint Aelred of Rievaulx",
-    "attribution_info": "",
+    "attribution_info": "Spiritual Friendship (De Spiritali Amicitia, c. 1164)",
     "tags": [
       "friendship",
       "wisdom"
@@ -1087,7 +1087,7 @@
     "id": "default-108",
     "quote": "The study of history is a powerful antidote to contemporary arrogance. It is humbling to discover how many of our glib assumptions, which seem to us novel and plausible, have been tested before, not once but many times and in innumerable guises; and discovered to be, at great human cost, wholly false.",
     "attribution": "Paul Johnson",
-    "attribution_info": "",
+    "attribution_info": "The Recovery of Freedom (1980)",
     "tags": [
       "wisdom"
     ],
@@ -1298,7 +1298,7 @@
     "id": "default-128",
     "quote": "Never put off till tomorrow what may be done day after tomorrow just as well.",
     "attribution": "Mark Twain",
-    "attribution_info": "",
+    "attribution_info": "'Memoranda', The Galaxy magazine (May 1870)",
     "tags": [
       "humor"
     ],
@@ -1350,7 +1350,7 @@
     "id": "default-133",
     "quote": "Kindness is the language which the deaf can hear and the blind can see.",
     "attribution": "Mark Twain",
-    "attribution_info": "",
+    "attribution_info": "Attributed (orig. Christian Nestell Bovee, Intuitions and Summaries of Thought, 1862)",
     "tags": [
       "wisdom"
     ],
@@ -1360,7 +1360,7 @@
     "id": "default-134",
     "quote": "The reports of my death are greatly exaggerated.",
     "attribution": "Mark Twain",
-    "attribution_info": "",
+    "attribution_info": "Note to Frank Marshall White, New York Journal (June 2, 1897)",
     "tags": [
       "humor"
     ],
@@ -1700,7 +1700,7 @@
     "id": "default-166",
     "quote": "Wealth consists not in having great possessions, but in having few wants.",
     "attribution": "Epictetus",
-    "attribution_info": "",
+    "attribution_info": "Fragments (Stobaeus, Florilegium)",
     "tags": [
       "wisdom"
     ],
@@ -1720,7 +1720,7 @@
     "id": "default-168",
     "quote": "Difficulties strengthen the mind, as labor does the body.",
     "attribution": "Seneca",
-    "attribution_info": "",
+    "attribution_info": "Moral Letters to Lucilius (Epistulae Morales ad Lucilium), Letter 106",
     "tags": [
       "wisdom"
     ],

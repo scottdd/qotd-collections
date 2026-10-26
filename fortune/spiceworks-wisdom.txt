@@ -5,7 +5,7 @@ You will kill a server at least once in your career and bring a business to its 
 —&nbsp;<b>Steve9603</b>, Spiceworks Community (https://community.spiceworks.com/topic/post/8107992)
 %
 My advice: you are on a losing street but you will learn a lot on your path to despair.<br/>
-—&nbsp;<b>Unknown</b>, programming forum, attribution TBD
+—&nbsp;<b>JohnOne</b>, AutoIt Forums, '_TesseractScreenFind()' (June 20, 2010) (https://www.autoitscript.com/forum/topic/115979-_tesseractscreenfind/)
 %
 Do not remove a fence until you know why it was put up in the first place. Ask questions. Seek to understand.<br/>
 —&nbsp;<b>Jiggins</b>, Spiceworks Community (https://community.spiceworks.com/t/we-have-always-done-it-that-way/1256666/9)
