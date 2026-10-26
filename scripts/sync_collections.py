@@ -95,8 +95,8 @@ def render_fortunes(name: str, items: list):
             else:
                 f.write(q_html + "\n%\n")
 
-    # Also update legacy/quote.txt for personal-qotd
-    if name == "personal-qotd":
+    # Also update legacy/quote.txt for default
+    if name == "default":
         os.makedirs(LEGACY_DIR, exist_ok=True)
         with open(os.path.join(LEGACY_DIR, "quote.txt"), "w", encoding="utf-8") as f:
             for item in items:
